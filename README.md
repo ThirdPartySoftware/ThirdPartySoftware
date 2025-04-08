@@ -23,4 +23,3 @@ echo 5. Launch Command Prompt
 echo 4. Exit
 
 here you can put the options that you want
-the file is in 
